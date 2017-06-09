@@ -1,0 +1,8 @@
+setup****.m: create imdb database with original dataset
+
+flowing chart functions:
+1. getDenseSIFT.m used for SIFT descriptor generation
+2. extendDescriptorsWithGeometry.m used for SIFT reorganization
+3. trainEncoder.m encoding methods with 'bow'/'vlad'/'FV'
+4. encodeImage.m used for feature encoding 
+5. traintest.m used for classification
